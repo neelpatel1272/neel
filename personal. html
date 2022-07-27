@@ -1,0 +1,103 @@
+<! doctype html>
+    <html>
+<head>
+<meta char set ="utf-8">
+ <title>neel personal site</title>
+</head>
+<body>
+<table>
+     <tr>
+      <td><img src="https://www.dreamstime.com/picoc-wonderful-emage-favourite-superb-image120857361" alt="flowers">
+</td>
+      <td><h1> neel </h1>
+<pr> <em>the elements of account is very easy then other</em><strong> subject</strong> </pr></td>
+     <tr>
+</table>
+
+<hr> 
+<h3><strong><a href ="https://www.worldbank.org/en/topic/education">education</a><strong></h3>
+<br>
+<pr>i am a very simple boy and i am teaching coding and i have teach very more in 17 th july i dropping my wallet and i am very proud them</pr>
+<br>
+<br>
+ i am a very simple person and i am very good experience in teaching line
+<ul>
+<li>the complete ios app development cource</Li>
+<li> the complete web development cource</li>
+</ul>
+<hr>
+<h3>bio data </h3>
+    <table border="1">
+      <tr>
+        <th>year</th>
+        <th>what doing?? </th>
+      </tr>
+     <tr>
+      <td>2005</td>
+      <td>i am born</td>
+     <tr>
+    <tr>
+      <td>2019-20</td>
+      <td>i am passing ssc </td>
+    </tr>
+    <tr>
+      <td>2021-22</td>
+      <td>i am passing hsc </td>
+     </tr>
+     
+</table>
+<hr>
+<h3>skills</h3>
+<table  cellspacing="20">
+  <tr>
+      <td>
+            <table>
+                 <tr>
+                     <td>playing</td>
+                     <td>⭐⭐⭐⭐⭐</td>
+                 </tr>
+                 <tr>
+                     <td>studing</td>
+                     <td>⭐⭐⭐⭐</td>
+                 </tr>
+               </table>
+      </td>
+     <td> 
+         <table> 
+         <tr>
+             <td>writting</td>
+             <td>⭐⭐⭐</td>
+         </tr>
+         <tr>
+             <td>walking</td>
+             <td>⭐⭐⭐</td>
+         </tr>
+ </table>
+</table>
+<hr>
+<form>
+ <label>your name</label>
+   <input type="text" name=""  value="">
+<br>
+ <label>do you want to sign up the e-mail list?</label>
+   <input type="colour" name="" value="">
+   <input type="checkbox" name="" value="">
+   <input type="submit" name="">
+</form>
+
+
+
+
+
+
+<hr>
+<h3> link under</h3>
+<ol>
+<li> <a href="https://www.indiatoday.in/live tv">live India TV </a></li>
+<li> <a href ="https://free-fire-battlegrounds.en.uptodown.com/android/download"> freefire download </a></li>
+</ol>
+
+
+</body>
+
+</html>
